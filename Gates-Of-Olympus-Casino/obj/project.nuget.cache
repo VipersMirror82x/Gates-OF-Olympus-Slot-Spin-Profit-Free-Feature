@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1LIBlIKOuJq8rYko35TjB5xlXCkrXBrVo5AqAwSphnC28ml2C7V0sYN0jKKbsxXcjuqauwKFxkpzgcC+BTiswg==",
+  "success": true,
+  "projectFilePath": "D:\\GithubNew\\7\\GatesOlympus\\Gates-of-olympus\\Gates-Of-Olympus-Casino\\Gates-Of-Olympus-Casino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LW\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\LW\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\LW\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
